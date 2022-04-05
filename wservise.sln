@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wservise", "wservise\wservise.csproj", "{ACCC3B37-DE40-4369-8F62-192AE73769FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wservise.Tests", "wservise.Tests\wservise.Tests.csproj", "{E82FF750-0157-431B-ADC4-4C5E0CAD3263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{CF68BFBF-C07D-428D-8CB4-202B19E5AA96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCC3B37-DE40-4369-8F62-192AE73769FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCC3B37-DE40-4369-8F62-192AE73769FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCC3B37-DE40-4369-8F62-192AE73769FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCC3B37-DE40-4369-8F62-192AE73769FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82FF750-0157-431B-ADC4-4C5E0CAD3263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82FF750-0157-431B-ADC4-4C5E0CAD3263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82FF750-0157-431B-ADC4-4C5E0CAD3263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82FF750-0157-431B-ADC4-4C5E0CAD3263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF68BFBF-C07D-428D-8CB4-202B19E5AA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF68BFBF-C07D-428D-8CB4-202B19E5AA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF68BFBF-C07D-428D-8CB4-202B19E5AA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF68BFBF-C07D-428D-8CB4-202B19E5AA96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
